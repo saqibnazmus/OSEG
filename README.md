@@ -141,7 +141,7 @@ print(f"Video saved to {video_path}")
 
 
 
-```markdown
+```
 ## 🙏 Acknowledgements
 
 This project builds upon the excellent work of:
