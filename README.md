@@ -72,11 +72,8 @@ This project builds upon the excellent work of:
 - [Smoother Energy Guidance (SEG)](https://example.com) by Ahn et al.
 
 
-## 🚀 Start Guide
+## 🚀 Start Guide (T2V with Mochi)
 
-**🧨 Diffusers-based codes**  
-To run the test script, refer to the `inference.py` file in each folder.  
-Below is an example using **Mochi**:
 
 ```python
 # inference.py
