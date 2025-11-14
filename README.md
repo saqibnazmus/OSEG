@@ -20,10 +20,9 @@
 pip install -r requirements.txt
 
 
-
-```markdown
+```
 ## 🚀 Quickstart (T2I)
-
+```bash
 Get started with our Jupyter notebook demos:
 
 1. `sdxl_oseg.ipynb`: Basic usage with SDXL  
@@ -63,7 +62,7 @@ output[0].save("oseg_example.png")
 
 
 
-```markdown
+```
 ## 🙏 Acknowledgements
 
 This project builds upon the excellent work of:
