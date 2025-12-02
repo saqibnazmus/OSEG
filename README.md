@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ```
 ## 🚀 Quickstart (T2I)
-```bash
+
 Get started with our Jupyter notebook demos:
 
 1. `sdxl_oseg.ipynb`: Basic usage with SDXL  
@@ -76,7 +76,7 @@ This project builds upon the excellent work of:
 
 
 ```python
-# inference.py
+
 import torch
 from diffusers import MochiPipeline
 from pipeline_oseg_mochi import MochiOSEGPipeline
